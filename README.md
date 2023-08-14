@@ -37,7 +37,17 @@ public class Store {
 
 In the next sections, we will look at how we can provide the implementation of ***Item*** through metadata.
 
-
-
 ## 🔑 Advantages of Dependency Injection
 - Dependency Injection in Spring also ensures loose-coupling between the classes
+- Improves code reusability
+- Ease the unit testing of applications through mocking/ stubbing injected dependencies
+- Reduce the boilerplate code because dependencies are initialized by their injector component
+- Decouples component logic
+- Makes it easier to extend the application classes
+- Enhances the configuration of applications
+
+
+
+
+
+
