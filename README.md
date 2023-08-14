@@ -1,6 +1,9 @@
 # 🧸 Section 2: Dependency Injection
 ## What is Dependency Injection?
-> Summary: Dependency Injection is a process through which the Spring container "injects" objects into other objects (injecting dependencies).
+> Summary:
+>
+> Dependency Injection is a process through which the Spring container "injects" objects into other objects (injecting dependencies).
+>
 > This allows loose coupling of components and moves the responsibility of managing components onto the Container
 - Dependency Injection is the main functionality provided by Spring IoC (Inversion of Control)
 - The Spring-Core module is responsible for injecting dependencies through either `Constructor` or `Setter` methods.
